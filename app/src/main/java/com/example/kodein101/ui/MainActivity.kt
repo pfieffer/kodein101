@@ -1,7 +1,8 @@
-package com.example.kodein101
+package com.example.kodein101.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.kodein101.R
 
 class MainActivity : AppCompatActivity() {
 
